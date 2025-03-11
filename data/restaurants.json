@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "rest001",
+    "name": "Urban Mexican Palace",
+    "location": "Lakeside",
+    "cuisine": "Mexican",
+    "capacity": 60,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 8
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 3
+      },
+      "large": {
+        "capacity": 8,
+        "count": 4
+      }
+    },
+    "hours": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "price_range": "$$$$",
+    "features": [
+      "wheelchair accessible",
+      "pet-friendly",
+      "casual",
+      "romantic"
+    ],
+    "description": "A $$$$ mexican restaurant located in Lakeside.",
+    "rating": 3.8
+  },
+  {
+    "id": "rest002",
+    "name": "Royal Palace",
+    "location": "Midtown",
+    "cuisine": "Japanese",
+    "capacity": 64,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 10
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 9
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "romantic",
+      "outdoor seating",
+      "private dining",
+      "live music",
+      "trendy"
+    ],
+    "description": "A $$$ japanese restaurant located in Midtown.",
+    "rating": 4.2
+  },
+  {
+    "id": "rest003",
+    "name": "Silver Thai Bar & Grill",
+    "location": "Oceanview",
+    "cuisine": "Thai",
+    "capacity": 54,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 9
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 2
+      }
+    },
+    "hours": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "pet-friendly",
+      "live music",
+      "romantic",
+      "wheelchair accessible"
+    ],
+    "description": "A $$$ thai restaurant located in Oceanview.",
+    "rating": 3.3
+  },
+  {
+    "id": "rest004",
+    "name": "Rustic Spanish Diner",
+    "location": "Midtown",
+    "cuisine": "Spanish",
+    "capacity": 42,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 11
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 3
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "price_range": "$",
+    "features": [
+      "gluten-free options",
+      "trendy",
+      "vegetarian options"
+    ],
+    "description": "A $ spanish restaurant located in Midtown.",
+    "rating": 4.4
+  },
+  {
+    "id": "rest005",
+    "name": "Golden Greek House",
+    "location": "Oceanview",
+    "cuisine": "Greek",
+    "capacity": 72,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 8
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 8
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "11:00",
+      "close": "20:00"
+    },
+    "price_range": "$$",
+    "features": [
+      "vegan options",
+      "wheelchair accessible"
+    ],
+    "description": "A $$ greek restaurant located in Oceanview.",
+    "rating": 4.5
+  },
+  {
+    "id": "rest006",
+    "name": "Rustic Vietnamese Restaurant",
+    "location": "Midtown",
+    "cuisine": "Vietnamese",
+    "capacity": 54,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 7
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 6
+      },
+      "large": {
+        "capacity": 8,
+        "count": 2
+      }
+    },
+    "hours": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "romantic",
+      "fine dining"
+    ],
+    "description": "A $$$ vietnamese restaurant located in Midtown.",
+    "rating": 4.5
+  },
+  {
+    "id": "rest007",
+    "name": "Rustic Palace",
+    "location": "Financial District",
+    "cuisine": "Spanish",
+    "capacity": 44,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 4
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 3
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "price_range": "$",
+    "features": [
+      "takeout",
+      "wheelchair accessible",
+      "outdoor seating",
+      "gluten-free options",
+      "vegetarian options"
+    ],
+    "description": "A $ spanish restaurant located in Financial District.",
+    "rating": 3.4
+  },
+  {
+    "id": "rest008",
+    "name": "Grand Indian Diner",
+    "location": "Westside",
+    "cuisine": "Indian",
+    "capacity": 74,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 7
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 5
+      }
+    },
+    "hours": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "vegetarian options",
+      "trendy",
+      "takeout",
+      "kid-friendly"
+    ],
+    "description": "A $$$ indian restaurant located in Westside.",
+    "rating": 4.3
+  },
+  {
+    "id": "rest009",
+    "name": "Silver Spanish Bistro",
+    "location": "Southside",
+    "cuisine": "Spanish",
+    "capacity": 64,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 8
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 10
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "price_range": "$$",
+    "features": [
+      "romantic",
+      "vegan options",
+      "outdoor seating"
+    ],
+    "description": "A $$ spanish restaurant located in Southside.",
+    "rating": 4.2
+  },
+  {
+    "id": "rest010",
+    "name": "Rustic Trattoria",
+    "location": "Midtown",
+    "cuisine": "Vietnamese",
+    "capacity": 104,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 12
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 10
+      },
+      "large": {
+        "capacity": 8,
+        "count": 5
+      }
+    },
+    "hours": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "price_range": "$$$$",
+    "features": [
+      "casual",
+      "kid-friendly",
+      "outdoor seating",
+      "live music",
+      "gluten-free options"
+    ],
+    "description": "A $$$$ vietnamese restaurant located in Midtown.",
+    "rating": 4.9
+  },
+  {
+    "id": "rest011",
+    "name": "Rustic Trattoria",
+    "location": "Uptown",
+    "cuisine": "Japanese",
+    "capacity": 42,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 5
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 6
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "delivery",
+      "vegan options"
+    ],
+    "description": "A $$$ japanese restaurant located in Uptown.",
+    "rating": 4.0
+  },
+  {
+    "id": "rest012",
+    "name": "Grand Lebanese Bistro",
+    "location": "Downtown",
+    "cuisine": "Lebanese",
+    "capacity": 74,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 11
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 4
+      }
+    },
+    "hours": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "price_range": "$",
+    "features": [
+      "kid-friendly",
+      "delivery",
+      "vegan options",
+      "trendy"
+    ],
+    "description": "A $ lebanese restaurant located in Downtown.",
+    "rating": 3.7
+  },
+  {
+    "id": "rest013",
+    "name": "The Lebanese Lounge",
+    "location": "Westside",
+    "cuisine": "Lebanese",
+    "capacity": 58,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 3
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 9
+      },
+      "large": {
+        "capacity": 8,
+        "count": 2
+      }
+    },
+    "hours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "price_range": "$$$$",
+    "features": [
+      "live music",
+      "wheelchair accessible",
+      "delivery",
+      "kid-friendly",
+      "vegan options"
+    ],
+    "description": "A $$$$ lebanese restaurant located in Westside.",
+    "rating": 4.1
+  },
+  {
+    "id": "rest014",
+    "name": "Silver Trattoria",
+    "location": "Financial District",
+    "cuisine": "Italian",
+    "capacity": 56,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 4
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 6
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "price_range": "$",
+    "features": [
+      "bar",
+      "pet-friendly",
+      "gluten-free options"
+    ],
+    "description": "A $ italian restaurant located in Financial District.",
+    "rating": 4.2
+  },
+  {
+    "id": "rest015",
+    "name": "Red Trattoria",
+    "location": "Midtown",
+    "cuisine": "Lebanese",
+    "capacity": 50,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 11
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "price_range": "$$",
+    "features": [
+      "trendy",
+      "kid-friendly",
+      "live music"
+    ],
+    "description": "A $$ lebanese restaurant located in Midtown.",
+    "rating": 4.6
+  },
+  {
+    "id": "rest016",
+    "name": "The Table",
+    "location": "Eastside",
+    "cuisine": "Mexican",
+    "capacity": 62,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 11
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 4
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "price_range": "$",
+    "features": [
+      "live music",
+      "private dining"
+    ],
+    "description": "A $ mexican restaurant located in Eastside.",
+    "rating": 4.1
+  },
+  {
+    "id": "rest017",
+    "name": "Modern Diner",
+    "location": "Financial District",
+    "cuisine": "Mexican",
+    "capacity": 62,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 5
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 7
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "price_range": "$",
+    "features": [
+      "casual",
+      "gluten-free options",
+      "vegan options",
+      "pet-friendly",
+      "romantic"
+    ],
+    "description": "A $ mexican restaurant located in Financial District.",
+    "rating": 4.6
+  },
+  {
+    "id": "rest018",
+    "name": "Rustic Steakhouse",
+    "location": "Financial District",
+    "cuisine": "Italian",
+    "capacity": 42,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 3
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 2
+      }
+    },
+    "hours": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "pet-friendly",
+      "delivery",
+      "bar"
+    ],
+    "description": "A $$$ italian restaurant located in Financial District.",
+    "rating": 3.2
+  },
+  {
+    "id": "rest019",
+    "name": "Silver Table",
+    "location": "Westside",
+    "cuisine": "Chinese",
+    "capacity": 50,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 9
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 6
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "pet-friendly",
+      "vegan options"
+    ],
+    "description": "A $$$ chinese restaurant located in Westside.",
+    "rating": 3.4
+  },
+  {
+    "id": "rest020",
+    "name": "Vintage House",
+    "location": "Lakeside",
+    "cuisine": "Indian",
+    "capacity": 36,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 6
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 4
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "price_range": "$$",
+    "features": [
+      "wheelchair accessible",
+      "romantic"
+    ],
+    "description": "A $$ indian restaurant located in Lakeside.",
+    "rating": 4.2
+  },
+  {
+    "id": "rest021",
+    "name": "Village Diner",
+    "location": "Riverfront",
+    "cuisine": "Thai",
+    "capacity": 66,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 3
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 9
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "price_range": "$",
+    "features": [
+      "private dining",
+      "vegan options",
+      "trendy",
+      "wheelchair accessible",
+      "vegetarian options"
+    ],
+    "description": "A $ thai restaurant located in Riverfront.",
+    "rating": 4.4
+  },
+  {
+    "id": "rest022",
+    "name": "Blue Bar & Grill",
+    "location": "Eastside",
+    "cuisine": "Vietnamese",
+    "capacity": 60,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 12
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 3
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "kid-friendly",
+      "vegan options"
+    ],
+    "description": "A $$$ vietnamese restaurant located in Eastside.",
+    "rating": 3.8
+  },
+  {
+    "id": "rest023",
+    "name": "Green Eatery",
+    "location": "Lakeside",
+    "cuisine": "Brazilian",
+    "capacity": 52,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 4
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "outdoor seating",
+      "delivery",
+      "trendy",
+      "private dining",
+      "wheelchair accessible"
+    ],
+    "description": "A $$$ brazilian restaurant located in Lakeside.",
+    "rating": 4.9
+  },
+  {
+    "id": "rest024",
+    "name": "Red House",
+    "location": "Southside",
+    "cuisine": "Thai",
+    "capacity": 70,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 5
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 5
+      }
+    },
+    "hours": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "price_range": "$$$$",
+    "features": [
+      "pet-friendly",
+      "vegan options",
+      "takeout",
+      "outdoor seating",
+      "bar"
+    ],
+    "description": "A $$$$ thai restaurant located in Southside.",
+    "rating": 4.3
+  },
+  {
+    "id": "rest025",
+    "name": "Modern Steakhouse",
+    "location": "Uptown",
+    "cuisine": "Italian",
+    "capacity": 68,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 6
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 4
+      },
+      "large": {
+        "capacity": 8,
+        "count": 5
+      }
+    },
+    "hours": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "price_range": "$$",
+    "features": [
+      "private dining",
+      "vegetarian options",
+      "casual"
+    ],
+    "description": "A $$ italian restaurant located in Uptown.",
+    "rating": 3.6
+  },
+  {
+    "id": "rest026",
+    "name": "Blue Garden",
+    "location": "Midtown",
+    "cuisine": "Italian",
+    "capacity": 52,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 12
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 5
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "pet-friendly",
+      "takeout",
+      "kid-friendly",
+      "wheelchair accessible",
+      "outdoor seating"
+    ],
+    "description": "A $$$ italian restaurant located in Midtown.",
+    "rating": 3.1
+  },
+  {
+    "id": "rest027",
+    "name": "Royal Diner",
+    "location": "Downtown",
+    "cuisine": "Greek",
+    "capacity": 60,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 10
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 8
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "price_range": "$",
+    "features": [
+      "trendy",
+      "vegetarian options",
+      "wheelchair accessible",
+      "live music",
+      "takeout"
+    ],
+    "description": "A $ greek restaurant located in Downtown.",
+    "rating": 3.5
+  },
+  {
+    "id": "rest028",
+    "name": "Vintage Eatery",
+    "location": "Eastside",
+    "cuisine": "Greek",
+    "capacity": 90,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 9
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 10
+      },
+      "large": {
+        "capacity": 8,
+        "count": 4
+      }
+    },
+    "hours": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "price_range": "$$$",
+    "features": [
+      "outdoor seating",
+      "fine dining",
+      "wheelchair accessible",
+      "trendy"
+    ],
+    "description": "A $$$ greek restaurant located in Eastside.",
+    "rating": 4.6
+  },
+  {
+    "id": "rest029",
+    "name": "Silver Eatery",
+    "location": "Eastside",
+    "cuisine": "Korean",
+    "capacity": 54,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 11
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 6
+      },
+      "large": {
+        "capacity": 8,
+        "count": 1
+      }
+    },
+    "hours": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "price_range": "$",
+    "features": [
+      "kid-friendly",
+      "casual",
+      "outdoor seating",
+      "takeout",
+      "vegan options"
+    ],
+    "description": "A $ korean restaurant located in Eastside.",
+    "rating": 3.3
+  },
+  {
+    "id": "rest030",
+    "name": "Urban Lounge",
+    "location": "Riverfront",
+    "cuisine": "Japanese",
+    "capacity": 42,
+    "tables": {
+      "small": {
+        "capacity": 2,
+        "count": 3
+      },
+      "medium": {
+        "capacity": 4,
+        "count": 3
+      },
+      "large": {
+        "capacity": 8,
+        "count": 3
+      }
+    },
+    "hours": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "price_range": "$$",
+    "features": [
+      "vegetarian options",
+      "vegan options"
+    ],
+    "description": "A $$ japanese restaurant located in Riverfront.",
+    "rating": 4.5
+  }
+]
