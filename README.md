@@ -20,7 +20,7 @@ A simple LLM-powered restaurant reservation assistant that helps users find rest
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/foodiespot.git
+   git clone https://github.com/Rahul-Bijarniya-1/Sarvam_Chatbot.git
    cd foodiespot
    ```
 
